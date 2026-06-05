@@ -1,4 +1,4 @@
-# Sistema de Gestão de Projetos e Equipes
+# Sistema de Gestão de Projetos e Equipes - Aluno: Flávio Ariano
 ### Java 17 — Console MVC — Persistência em .dat
 
 ---
