@@ -1,6 +1,6 @@
 # Sistema de Gestão de Projetos e Equipes
+## Projeto Acadêmico — Nome: FLAVIO ARIANO  Matrícula: 2026100723 — São Judas
 ### Java 17 — Console MVC — Persistência em .dat
-### Projeto Acadêmico — Nome: FLAVIO ARIANO  Matrícula: 2026100723 — São Judas
 
 ---
 
