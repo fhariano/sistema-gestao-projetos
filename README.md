@@ -1,5 +1,6 @@
 # Sistema de Gestão de Projetos e Equipes
 ### Java 17 — Console MVC — Persistência em .dat
+### Projeto Acadêmico — Nome: FLAVIO ARIANO  Matrícula: 2026100723 — São Judas
 
 ---
 
@@ -51,6 +52,11 @@ sistema_gestao/
 ### Pré-requisito
 - Java 17 ou superior instalado (testado também com Java 21)
 - Terminal / Prompt de Comando
+
+```bash
+# Windows 10/11 - Caso utilize Prompt de Comando para que as cores funcionem é necessário executar o seguinte comando antes!
+reg add "HKCU\Console" /v VirtualTerminalLevel /t REG_DWORD /d 1 /f
+```
 
 ### Compilação (a partir da pasta `src/`)
 
